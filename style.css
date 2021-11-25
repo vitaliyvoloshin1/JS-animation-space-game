@@ -1,0 +1,12 @@
+body {
+    background: rgb(90, 2, 78);
+}
+#wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+canvas {
+    cursor: none;
+}
+
+
